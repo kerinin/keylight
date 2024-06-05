@@ -7,7 +7,7 @@ Airs](https://www.elgato.com/en/gaming/key-light-air).
 ## Install
 
 ```
-$ go get github.com/deepu105/keylight
+$ go install github.com/kerinin/keylight@latest
 ```
 
 OR
@@ -15,7 +15,7 @@ OR
 Clone this repo first
 
 ```shell
-$ git clone https://github.com/deepu105/keylight.git
+$ git clone https://github.com/kerinin/keylight.git
 $ cd keylight
 ```
 

@@ -1,4 +1,4 @@
-module keylight
+module github.com/kerinin/keylight
 
 go 1.15
 
